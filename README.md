@@ -1,0 +1,1 @@
+This Python project simulates an ATM (Automated Teller Machine) system built using console based interface. It allows users to perform various banking operations after successfully authenticating with their user ID and PIN.
